@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Hasnain Ali Shah</h1>
-<h3 align="center">AI Enthusiast| Mastering Typescript</h3>
+<h3 align="center">AI Enthusiast | Mastering Typescript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnaindevmaster&label=Profile%20views&color=0e75b6&style=flat" alt="hasnaindevmaster" /> </p>
+
+I'm a developer passionate about **TypeScript**, **CLI applications**, and improving my coding skills. Recently, I completed the **Google Soft Skills Program** and have been actively participating in the **100 Days Of Coding Challenge**.
+
 
 - 🌱 I’m currently learning **TypeScript | NodeJS | JavaScript**
 
